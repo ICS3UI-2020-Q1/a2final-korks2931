@@ -44,7 +44,7 @@ public class Main {
       System.out.println("This will be delicious!");
 
     } if ( size > 40){
-      System.out.println ("Whoa,big pizza! You might need a truck to get this home");
+      System.out.println ("Whoa,big pizza! You might need a truck to get this home!");
 
     }
     
